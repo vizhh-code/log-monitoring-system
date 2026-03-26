@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pkl
+.env
+.venv/
+airflow.venv/
+logs/
+*.log
+results/
+model/
+dataset/

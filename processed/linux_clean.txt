@@ -1,0 +1,2000 @@
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>-<num>-<num>-<num>.hinet-ip.hinet.net  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>-<num>-<num>-<num>.hinet-ip.hinet.net  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>-<num>-<num>-<num>.hinet-ip.hinet.net  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>-<num>-<num>-<num>.hinet-ip.hinet.net  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>-<num>-<num>-<num>.hinet-ip.hinet.net  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>-<num>-<num>-<num>.hinet-ip.hinet.net  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>-<num>-<num>-<num>.hinet-ip.hinet.net  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>-<num>-<num>-<num>.hinet-ip.hinet.net  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>-<num>-<num>-<num>.hinet-ip.hinet.net  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>-<num>-<num>-<num>.hinet-ip.hinet.net  user=root
+su(pam_unix): session opened for user cyrus by (uid=<num>)
+su(pam_unix): session closed for user cyrus
+logrotate: alert exited abnormally with
+su(pam_unix): session opened for user news by (uid=<num>)
+su(pam_unix): session closed for user news
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.ctinets.com
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.ctinets.com
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.ctinets.com
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.ctinets.com
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.ctinets.com
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.ctinets.com
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.ctinets.com
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.ctinets.com
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.ctinets.com
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.ctinets.com
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=d<num>-<num>-<num>-<num>.rev.krline.net
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=d<num>-<num>-<num>-<num>.rev.krline.net
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=d<num>-<num>-<num>-<num>.rev.krline.net
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=d<num>-<num>-<num>-<num>.rev.krline.net
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=d<num>-<num>-<num>-<num>.rev.krline.net
+su(pam_unix): session opened for user cyrus by (uid=<num>)
+su(pam_unix): session closed for user cyrus
+logrotate: alert exited abnormally with
+su(pam_unix): session opened for user news by (uid=<num>)
+su(pam_unix): session closed for user news
+su(pam_unix): session opened for user cyrus by (uid=<num>)
+su(pam_unix): session closed for user cyrus
+logrotate: alert exited abnormally with
+su(pam_unix): session opened for user news by (uid=<num>)
+su(pam_unix): session closed for user news
+ftpd: connection from <num>.<num>.<num>.<num> (<num>-<num>-<num>-<num>.bflony.adelphia.net) at fri jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (<num>-<num>-<num>-<num>.bflony.adelphia.net) at fri jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (<num>-<num>-<num>-<num>.bflony.adelphia.net) at fri jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (<num>-<num>-<num>-<num>.bflony.adelphia.net) at fri jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (<num>-<num>-<num>-<num>.bflony.adelphia.net) at fri jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (<num>-<num>-<num>-<num>.bflony.adelphia.net) at fri jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (<num>-<num>-<num>-<num>.bflony.adelphia.net) at fri jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (<num>-<num>-<num>-<num>.bflony.adelphia.net) at fri jun <num> <num>:<num>:<num> <num>
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=guest
+sshd(pam_unix): session opened for user test by (uid=<num>)
+sshd(pam_unix): session closed for user test
+ftpd: connection from <num>.<num>.<num>.<num> (lns-vlq-<num>-tou-<num>-<num>-<num>-<num>.adsl.proxad.net) at fri jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (lns-vlq-<num>-tou-<num>-<num>-<num>-<num>.adsl.proxad.net) at fri jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (lns-vlq-<num>-tou-<num>-<num>-<num>-<num>.adsl.proxad.net) at fri jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (lns-vlq-<num>-tou-<num>-<num>-<num>-<num>.adsl.proxad.net) at fri jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (lns-vlq-<num>-tou-<num>-<num>-<num>-<num>.adsl.proxad.net) at fri jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (lns-vlq-<num>-tou-<num>-<num>-<num>-<num>.adsl.proxad.net) at fri jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (lns-vlq-<num>-tou-<num>-<num>-<num>-<num>.adsl.proxad.net) at fri jun <num> <num>:<num>:<num> <num>
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=adsl-<num>-<num>-<num>-<num>.dsl.ksc<num>mo.swbell.net
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=adsl-<num>-<num>-<num>-<num>.dsl.ksc<num>mo.swbell.net
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=adsl-<num>-<num>-<num>-<num>.dsl.ksc<num>mo.swbell.net
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=adsl-<num>-<num>-<num>-<num>.dsl.ksc<num>mo.swbell.net
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=adsl-<num>-<num>-<num>-<num>.dsl.ksc<num>mo.swbell.net
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=adsl-<num>-<num>-<num>-<num>.dsl.ksc<num>mo.swbell.net
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=adsl-<num>-<num>-<num>-<num>.dsl.ksc<num>mo.swbell.net
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=adsl-<num>-<num>-<num>-<num>.dsl.ksc<num>mo.swbell.net
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=adsl-<num>-<num>-<num>-<num>.dsl.ksc<num>mo.swbell.net
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=adsl-<num>-<num>-<num>-<num>.dsl.ksc<num>mo.swbell.net
+ftpd: connection from <num>.<num>.<num>.<num> (lns-vlq-<num>-tou-<num>-<num>-<num>-<num>.adsl.proxad.net) at sat jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (lns-vlq-<num>-tou-<num>-<num>-<num>-<num>.adsl.proxad.net) at sat jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (lns-vlq-<num>-tou-<num>-<num>-<num>-<num>.adsl.proxad.net) at sat jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (lns-vlq-<num>-tou-<num>-<num>-<num>-<num>.adsl.proxad.net) at sat jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (lns-vlq-<num>-tou-<num>-<num>-<num>-<num>.adsl.proxad.net) at sat jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (lns-vlq-<num>-tou-<num>-<num>-<num>-<num>.adsl.proxad.net) at sat jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (lns-vlq-<num>-tou-<num>-<num>-<num>-<num>.adsl.proxad.net) at sat jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (lns-vlq-<num>-tou-<num>-<num>-<num>-<num>.adsl.proxad.net) at sat jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (lns-vlq-<num>-tou-<num>-<num>-<num>-<num>.adsl.proxad.net) at sat jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (lns-vlq-<num>-tou-<num>-<num>-<num>-<num>.adsl.proxad.net) at sat jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (lns-vlq-<num>-tou-<num>-<num>-<num>-<num>.adsl.proxad.net) at sat jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (lns-vlq-<num>-tou-<num>-<num>-<num>-<num>.adsl.proxad.net) at sat jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (lns-vlq-<num>-tou-<num>-<num>-<num>-<num>.adsl.proxad.net) at sat jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (lns-vlq-<num>-tou-<num>-<num>-<num>-<num>.adsl.proxad.net) at sat jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (lns-vlq-<num>-tou-<num>-<num>-<num>-<num>.adsl.proxad.net) at sat jun <num> <num>:<num>:<num> <num>
+ftpd: user unknown timed out after <num> seconds at sat jun <num> <num>:<num>:<num> <num>
+su(pam_unix): session opened for user cyrus by (uid=<num>)
+su(pam_unix): session closed for user cyrus
+logrotate: alert exited abnormally with
+su(pam_unix): session opened for user news by (uid=<num>)
+su(pam_unix): session closed for user news
+su(pam_unix): session opened for user cyrus by (uid=<num>)
+su(pam_unix): session closed for user cyrus
+cups: cupsd shutdown succeeded
+cups: cupsd startup succeeded
+syslogd <num>.<num>.<num>: restart.
+logrotate: alert exited abnormally with
+su(pam_unix): session opened for user news by (uid=<num>)
+su(pam_unix): session closed for user news
+ftpd: connection from <num>.<num>.<num>.<num> () at mon jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at mon jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at mon jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at mon jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at mon jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at mon jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at mon jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at mon jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at mon jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at mon jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at mon jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at mon jun <num> <num>:<num>:<num> <num>
+su(pam_unix): session opened for user cyrus by (uid=<num>)
+su(pam_unix): session closed for user cyrus
+logrotate: alert exited abnormally with
+su(pam_unix): session opened for user news by (uid=<num>)
+su(pam_unix): session closed for user news
+snmpd: received snmp packet(s) from <num>.<num>.<num>.<num>
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>
+su(pam_unix): session opened for user cyrus by (uid=<num>)
+su(pam_unix): session closed for user cyrus
+logrotate: alert exited abnormally with
+su(pam_unix): session opened for user news by (uid=<num>)
+su(pam_unix): session closed for user news
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=guest
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=guest
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=guest
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=guest
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=guest
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=guest
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=n<num>.netvigator.com  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=n<num>.netvigator.com  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=n<num>.netvigator.com  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=n<num>.netvigator.com  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=n<num>.netvigator.com  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=n<num>.netvigator.com  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=n<num>.netvigator.com  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=n<num>.netvigator.com  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=n<num>.netvigator.com  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=n<num>.netvigator.com  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=n<num>.netvigator.com  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=n<num>.netvigator.com  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=n<num>.netvigator.com  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=n<num>.netvigator.com  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=n<num>.netvigator.com  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=n<num>.netvigator.com  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=n<num>.netvigator.com  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=n<num>.netvigator.com  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=n<num>.netvigator.com  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=n<num>.netvigator.com  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=n<num>.netvigator.com  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=n<num>.netvigator.com  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=n<num>.netvigator.com  user=root
+su(pam_unix): session opened for user cyrus by (uid=<num>)
+su(pam_unix): session closed for user cyrus
+logrotate: alert exited abnormally with
+su(pam_unix): session opened for user news by (uid=<num>)
+su(pam_unix): session closed for user news
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=ip-<num>-<num>-<num>-<num>.ip.secureserver.net
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=ip-<num>-<num>-<num>-<num>.ip.secureserver.net
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=ip-<num>-<num>-<num>-<num>.ip.secureserver.net
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=ip-<num>-<num>-<num>-<num>.ip.secureserver.net
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=ip-<num>-<num>-<num>-<num>.ip.secureserver.net
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=ip-<num>-<num>-<num>-<num>.ip.secureserver.net
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=ip-<num>-<num>-<num>-<num>.ip.secureserver.net
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=ip-<num>-<num>-<num>-<num>.ip.secureserver.net
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=ip-<num>-<num>-<num>-<num>.ip.secureserver.net
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=ip-<num>-<num>-<num>-<num>.ip.secureserver.net
+ftpd: connection from <num>.<num>.<num>.<num> () at wed jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at wed jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at wed jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at wed jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at wed jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at wed jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at wed jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at wed jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at wed jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at wed jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at wed jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at wed jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at wed jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at wed jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at wed jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at wed jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at wed jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at wed jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at wed jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at wed jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at wed jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at wed jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at wed jun <num> <num>:<num>:<num> <num>
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=guest
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=guest
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=guest
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=guest
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=guest
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=guest
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=guest
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=guest
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=guest
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=guest
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>
+su(pam_unix): session opened for user cyrus by (uid=<num>)
+su(pam_unix): session closed for user cyrus
+logrotate: alert exited abnormally with
+su(pam_unix): session opened for user news by (uid=<num>)
+su(pam_unix): session closed for user news
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+su(pam_unix): session opened for user cyrus by (uid=<num>)
+su(pam_unix): session closed for user cyrus
+logrotate: alert exited abnormally with
+su(pam_unix): session opened for user news by (uid=<num>)
+su(pam_unix): session closed for user news
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jun <num> <num>:<num>:<num> <num>
+su(pam_unix): session opened for user cyrus by (uid=<num>)
+su(pam_unix): session closed for user cyrus
+logrotate: alert exited abnormally with
+su(pam_unix): session opened for user news by (uid=<num>)
+su(pam_unix): session closed for user news
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=massive.merukuru.org
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=massive.merukuru.org
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=massive.merukuru.org
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=massive.merukuru.org
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=massive.merukuru.org
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=massive.merukuru.org
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=massive.merukuru.org
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=massive.merukuru.org
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=massive.merukuru.org
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=massive.merukuru.org
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jun <num> <num>:<num>:<num> <num>
+su(pam_unix): session opened for user cyrus by (uid=<num>)
+su(pam_unix): session closed for user cyrus
+cups: cupsd shutdown succeeded
+cups: cupsd startup succeeded
+syslogd <num>.<num>.<num>: restart.
+logrotate: alert exited abnormally with
+su(pam_unix): session opened for user news by (uid=<num>)
+su(pam_unix): session closed for user news
+su(pam_unix): session opened for user cyrus by (uid=<num>)
+su(pam_unix): session closed for user cyrus
+logrotate: alert exited abnormally with
+su(pam_unix): session opened for user news by (uid=<num>)
+su(pam_unix): session closed for user news
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=troi.bluesky-technologies.com  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=troi.bluesky-technologies.com  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=troi.bluesky-technologies.com  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=troi.bluesky-technologies.com  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=troi.bluesky-technologies.com  user=root
+su(pam_unix): session opened for user cyrus by (uid=<num>)
+su(pam_unix): session closed for user cyrus
+logrotate: alert exited abnormally with
+su(pam_unix): session opened for user news by (uid=<num>)
+su(pam_unix): session closed for user news
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>-<num>-<num>-<num>.dsl.easynet.nl  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>-<num>-<num>-<num>.dsl.easynet.nl  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>-<num>-<num>-<num>.dsl.easynet.nl  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>-<num>-<num>-<num>.dsl.easynet.nl  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>-<num>-<num>-<num>.dsl.easynet.nl  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>-<num>-<num>-<num>.dsl.easynet.nl  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>-<num>-<num>-<num>.dsl.easynet.nl  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>-<num>-<num>-<num>.dsl.easynet.nl  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>-<num>-<num>-<num>.dsl.easynet.nl  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>-<num>-<num>-<num>.dsl.easynet.nl  user=root
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>
+ftpd: connection from <num>.<num>.<num>.<num> () at wed jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at wed jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at wed jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at wed jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at wed jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at wed jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at wed jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at wed jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at wed jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at wed jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at wed jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at wed jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at wed jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at wed jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at wed jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at wed jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at wed jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at wed jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at wed jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at wed jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at wed jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at wed jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at wed jun <num> <num>:<num>:<num> <num>
+su(pam_unix): session opened for user cyrus by (uid=<num>)
+su(pam_unix): session closed for user cyrus
+logrotate: alert exited abnormally with
+su(pam_unix): session opened for user news by (uid=<num>)
+su(pam_unix): session closed for user news
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=csnsu.nsuok.edu  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=csnsu.nsuok.edu  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=csnsu.nsuok.edu  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=csnsu.nsuok.edu  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=csnsu.nsuok.edu  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=csnsu.nsuok.edu  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=csnsu.nsuok.edu  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=csnsu.nsuok.edu  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=csnsu.nsuok.edu  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=csnsu.nsuok.edu  user=root
+ftpd: connection from <num>.<num>.<num>.<num> () at wed jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at wed jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at wed jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at wed jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at wed jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at wed jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at wed jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at wed jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at wed jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at wed jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at wed jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at wed jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at wed jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at wed jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at wed jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at wed jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at wed jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at wed jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at wed jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at wed jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at wed jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at wed jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at wed jun <num> <num>:<num>:<num> <num>
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=h<num>-<num>-<num>-<num>.gtconnect.net  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=h<num>-<num>-<num>-<num>.gtconnect.net  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=h<num>-<num>-<num>-<num>.gtconnect.net  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=h<num>-<num>-<num>-<num>.gtconnect.net  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=h<num>-<num>-<num>-<num>.gtconnect.net  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=h<num>-<num>-<num>-<num>.gtconnect.net  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=h<num>-<num>-<num>-<num>.gtconnect.net  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=h<num>-<num>-<num>-<num>.gtconnect.net  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=h<num>-<num>-<num>-<num>.gtconnect.net  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=h<num>-<num>-<num>-<num>.gtconnect.net  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=h<num>-<num>-<num>-<num>.gtconnect.net  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=h<num>-<num>-<num>-<num>.gtconnect.net  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=h<num>-<num>-<num>-<num>.gtconnect.net  user=root
+ftpd: connection from <num>.<num>.<num>.<num> () at wed jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at wed jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at wed jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at wed jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at wed jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at wed jun <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at wed jun <num> <num>:<num>:<num> <num>
+su(pam_unix): session opened for user cyrus by (uid=<num>)
+su(pam_unix): session closed for user cyrus
+logrotate: alert exited abnormally with
+su(pam_unix): session opened for user news by (uid=<num>)
+su(pam_unix): session closed for user news
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=biblioteka.wsi.edu.pl
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=biblioteka.wsi.edu.pl
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=biblioteka.wsi.edu.pl
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=biblioteka.wsi.edu.pl
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=biblioteka.wsi.edu.pl
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=biblioteka.wsi.edu.pl
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=biblioteka.wsi.edu.pl
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=biblioteka.wsi.edu.pl
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+klogind: authentication failed from <num>.<num>.<num>.<num> (<num>.<num>.<num>.<num>): permission denied in replay cache code
+klogind: kerberos authentication failed
+klogind: authentication failed from <num>.<num>.<num>.<num> (<num>.<num>.<num>.<num>): permission denied in replay cache code
+klogind: kerberos authentication failed
+klogind: authentication failed from <num>.<num>.<num>.<num> (<num>.<num>.<num>.<num>): permission denied in replay cache code
+klogind: kerberos authentication failed
+klogind: authentication failed from <num>.<num>.<num>.<num> (<num>.<num>.<num>.<num>): permission denied in replay cache code
+klogind: kerberos authentication failed
+klogind: authentication failed from <num>.<num>.<num>.<num> (<num>.<num>.<num>.<num>): permission denied in replay cache code
+klogind: kerberos authentication failed
+klogind: authentication failed from <num>.<num>.<num>.<num> (<num>.<num>.<num>.<num>): permission denied in replay cache code
+klogind: kerberos authentication failed
+klogind: authentication failed from <num>.<num>.<num>.<num> (<num>.<num>.<num>.<num>): permission denied in replay cache code
+klogind: authentication failed from <num>.<num>.<num>.<num> (<num>.<num>.<num>.<num>): permission denied in replay cache code
+klogind: authentication failed from <num>.<num>.<num>.<num> (<num>.<num>.<num>.<num>): software caused connection abort
+klogind: kerberos authentication failed
+klogind: kerberos authentication failed
+klogind: kerberos authentication failed
+klogind: authentication failed from <num>.<num>.<num>.<num> (<num>.<num>.<num>.<num>): software caused connection abort
+klogind: kerberos authentication failed
+klogind: authentication failed from <num>.<num>.<num>.<num> (<num>.<num>.<num>.<num>): software caused connection abort
+klogind: kerberos authentication failed
+klogind: authentication failed from <num>.<num>.<num>.<num> (<num>.<num>.<num>.<num>): software caused connection abort
+klogind: kerberos authentication failed
+klogind: authentication failed from <num>.<num>.<num>.<num> (<num>.<num>.<num>.<num>): software caused connection abort
+klogind: kerberos authentication failed
+klogind: authentication failed from <num>.<num>.<num>.<num> (<num>.<num>.<num>.<num>): software caused connection abort
+klogind: kerberos authentication failed
+klogind: authentication failed from <num>.<num>.<num>.<num> (<num>.<num>.<num>.<num>): software caused connection abort
+klogind: kerberos authentication failed
+klogind: authentication failed from <num>.<num>.<num>.<num> (<num>.<num>.<num>.<num>): software caused connection abort
+klogind: kerberos authentication failed
+klogind: authentication failed from <num>.<num>.<num>.<num> (<num>.<num>.<num>.<num>): software caused connection abort
+klogind: kerberos authentication failed
+klogind: authentication failed from <num>.<num>.<num>.<num> (<num>.<num>.<num>.<num>): software caused connection abort
+klogind: authentication failed from <num>.<num>.<num>.<num> (<num>.<num>.<num>.<num>): software caused connection abort
+klogind: authentication failed from <num>.<num>.<num>.<num> (<num>.<num>.<num>.<num>): software caused connection abort
+klogind: kerberos authentication failed
+klogind: authentication failed from <num>.<num>.<num>.<num> (<num>.<num>.<num>.<num>): software caused connection abort
+klogind: kerberos authentication failed
+klogind: authentication failed from <num>.<num>.<num>.<num> (<num>.<num>.<num>.<num>): software caused connection abort
+klogind: authentication failed from <num>.<num>.<num>.<num> (<num>.<num>.<num>.<num>): software caused connection abort
+klogind: kerberos authentication failed
+klogind: kerberos authentication failed
+klogind: kerberos authentication failed
+klogind: kerberos authentication failed
+sshd(pam_unix): session opened for user test by (uid=<num>)
+sshd(pam_unix): session opened for user test by (uid=<num>)
+sshd(pam_unix): session opened for user test by (uid=<num>)
+sshd(pam_unix): session opened for user test by (uid=<num>)
+sshd(pam_unix): session opened for user test by (uid=<num>)
+sshd(pam_unix): session opened for user test by (uid=<num>)
+sshd(pam_unix): session opened for user test by (uid=<num>)
+sshd(pam_unix): session opened for user test by (uid=<num>)
+sshd(pam_unix): session closed for user test
+sshd(pam_unix): session closed for user test
+sshd(pam_unix): session opened for user test by (uid=<num>)
+sshd(pam_unix): session opened for user test by (uid=<num>)
+sshd(pam_unix): session closed for user test
+sshd(pam_unix): session closed for user test
+sshd(pam_unix): session closed for user test
+sshd(pam_unix): session closed for user test
+sshd(pam_unix): session closed for user test
+sshd(pam_unix): session closed for user test
+sshd(pam_unix): session closed for user test
+sshd(pam_unix): session closed for user test
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+su(pam_unix): session opened for user cyrus by (uid=<num>)
+su(pam_unix): session closed for user cyrus
+logrotate: alert exited abnormally with
+su(pam_unix): session opened for user news by (uid=<num>)
+su(pam_unix): session closed for user news
+sshd(pam_unix): session opened for user test by (uid=<num>)
+sshd(pam_unix): session closed for user test
+sshd(pam_unix): session opened for user test by (uid=<num>)
+sshd(pam_unix): session closed for user test
+sshd(pam_unix): session opened for user test by (uid=<num>)
+sshd(pam_unix): session closed for user test
+sshd(pam_unix): session opened for user test by (uid=<num>)
+sshd(pam_unix): session closed for user test
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jul  <num> <num>:<num>:<num> <num>
+sshd(pam_unix): session opened for user test by (uid=<num>)
+sshd(pam_unix): session opened for user test by (uid=<num>)
+sshd(pam_unix): session closed for user test
+sshd(pam_unix): session opened for user test by (uid=<num>)
+sshd(pam_unix): session closed for user test
+sshd(pam_unix): session opened for user test by (uid=<num>)
+sshd(pam_unix): session closed for user test
+sshd(pam_unix): session closed for user test
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): session opened for user test by (uid=<num>)
+sshd(pam_unix): session opened for user test by (uid=<num>)
+sshd(pam_unix): session opened for user test by (uid=<num>)
+sshd(pam_unix): session opened for user test by (uid=<num>)
+sshd(pam_unix): session closed for user test
+sshd(pam_unix): session closed for user test
+sshd(pam_unix): session closed for user test
+sshd(pam_unix): session closed for user test
+sshd(pam_unix): session opened for user test by (uid=<num>)
+sshd(pam_unix): session closed for user test
+sshd(pam_unix): session opened for user test by (uid=<num>)
+sshd(pam_unix): session opened for user test by (uid=<num>)
+sshd(pam_unix): session opened for user test by (uid=<num>)
+sshd(pam_unix): session closed for user test
+sshd(pam_unix): session closed for user test
+sshd(pam_unix): session closed for user test
+su(pam_unix): session opened for user cyrus by (uid=<num>)
+su(pam_unix): session closed for user cyrus
+logrotate: alert exited abnormally with
+su(pam_unix): session opened for user news by (uid=<num>)
+su(pam_unix): session closed for user news
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=zummit.com
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=zummit.com
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=zummit.com
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=zummit.com
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=zummit.com
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=zummit.com
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=zummit.com
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=zummit.com
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=zummit.com
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=zummit.com
+su(pam_unix): session opened for user cyrus by (uid=<num>)
+su(pam_unix): session closed for user cyrus
+cups: cupsd shutdown succeeded
+cups: cupsd startup succeeded
+syslogd <num>.<num>.<num>: restart.
+logrotate: alert exited abnormally with
+su(pam_unix): session opened for user news by (uid=<num>)
+su(pam_unix): session closed for user news
+ftpd: connection from <num>.<num>.<num>.<num> (dsl-chn-static-<num>.<num>.<num>.<num>.touchtelindia.net) at sun jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (dsl-chn-static-<num>.<num>.<num>.<num>.touchtelindia.net) at sun jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (dsl-chn-static-<num>.<num>.<num>.<num>.touchtelindia.net) at sun jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (dsl-chn-static-<num>.<num>.<num>.<num>.touchtelindia.net) at sun jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (dsl-chn-static-<num>.<num>.<num>.<num>.touchtelindia.net) at sun jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (dsl-chn-static-<num>.<num>.<num>.<num>.touchtelindia.net) at sun jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (dsl-chn-static-<num>.<num>.<num>.<num>.touchtelindia.net) at sun jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (dsl-chn-static-<num>.<num>.<num>.<num>.touchtelindia.net) at sun jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (dsl-chn-static-<num>.<num>.<num>.<num>.touchtelindia.net) at sun jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (dsl-chn-static-<num>.<num>.<num>.<num>.touchtelindia.net) at sun jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (dsl-chn-static-<num>.<num>.<num>.<num>.touchtelindia.net) at sun jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (dsl-chn-static-<num>.<num>.<num>.<num>.touchtelindia.net) at sun jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (dsl-chn-static-<num>.<num>.<num>.<num>.touchtelindia.net) at sun jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (dsl-chn-static-<num>.<num>.<num>.<num>.touchtelindia.net) at sun jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (dsl-chn-static-<num>.<num>.<num>.<num>.touchtelindia.net) at sun jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (dsl-chn-static-<num>.<num>.<num>.<num>.touchtelindia.net) at sun jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (dsl-chn-static-<num>.<num>.<num>.<num>.touchtelindia.net) at sun jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (dsl-chn-static-<num>.<num>.<num>.<num>.touchtelindia.net) at sun jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (dsl-chn-static-<num>.<num>.<num>.<num>.touchtelindia.net) at sun jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (dsl-chn-static-<num>.<num>.<num>.<num>.touchtelindia.net) at sun jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (dsl-chn-static-<num>.<num>.<num>.<num>.touchtelindia.net) at sun jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (dsl-chn-static-<num>.<num>.<num>.<num>.touchtelindia.net) at sun jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (dsl-chn-static-<num>.<num>.<num>.<num>.touchtelindia.net) at sun jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (<num>.<num>.<num>.<num>.sh.interxion.inode.at) at sun jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (<num>.<num>.<num>.<num>.sh.interxion.inode.at) at sun jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (<num>.<num>.<num>.<num>.sh.interxion.inode.at) at sun jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (<num>.<num>.<num>.<num>.sh.interxion.inode.at) at sun jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (<num>.<num>.<num>.<num>.sh.interxion.inode.at) at sun jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (<num>.<num>.<num>.<num>.sh.interxion.inode.at) at sun jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (<num>.<num>.<num>.<num>.sh.interxion.inode.at) at sun jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (<num>.<num>.<num>.<num>.sh.interxion.inode.at) at sun jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (<num>.<num>.<num>.<num>.sh.interxion.inode.at) at sun jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (<num>.<num>.<num>.<num>.sh.interxion.inode.at) at sun jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (<num>.<num>.<num>.<num>.sh.interxion.inode.at) at sun jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (<num>.<num>.<num>.<num>.sh.interxion.inode.at) at sun jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (<num>.<num>.<num>.<num>.sh.interxion.inode.at) at sun jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (<num>.<num>.<num>.<num>.sh.interxion.inode.at) at sun jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (<num>.<num>.<num>.<num>.sh.interxion.inode.at) at sun jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (<num>.<num>.<num>.<num>.sh.interxion.inode.at) at sun jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (<num>.<num>.<num>.<num>.sh.interxion.inode.at) at sun jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (<num>.<num>.<num>.<num>.sh.interxion.inode.at) at sun jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (<num>.<num>.<num>.<num>.sh.interxion.inode.at) at sun jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (<num>.<num>.<num>.<num>.sh.interxion.inode.at) at sun jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (<num>.<num>.<num>.<num>.sh.interxion.inode.at) at sun jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (<num>.<num>.<num>.<num>.sh.interxion.inode.at) at sun jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (<num>.<num>.<num>.<num>.sh.interxion.inode.at) at sun jul  <num> <num>:<num>:<num> <num>
+su(pam_unix): session opened for user cyrus by (uid=<num>)
+su(pam_unix): session closed for user cyrus
+logrotate: alert exited abnormally with
+su(pam_unix): session opened for user news by (uid=<num>)
+su(pam_unix): session closed for user news
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+ftpd: connection from <num>.<num>.<num>.<num> (adsl-<num>-<num>-<num>-<num>.dsl.mtry<num>.pacbell.net) at mon jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (adsl-<num>-<num>-<num>-<num>.dsl.mtry<num>.pacbell.net) at mon jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (adsl-<num>-<num>-<num>-<num>.dsl.mtry<num>.pacbell.net) at mon jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (adsl-<num>-<num>-<num>-<num>.dsl.mtry<num>.pacbell.net) at mon jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (adsl-<num>-<num>-<num>-<num>.dsl.mtry<num>.pacbell.net) at mon jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (adsl-<num>-<num>-<num>-<num>.dsl.mtry<num>.pacbell.net) at mon jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (adsl-<num>-<num>-<num>-<num>.dsl.mtry<num>.pacbell.net) at mon jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (adsl-<num>-<num>-<num>-<num>.dsl.mtry<num>.pacbell.net) at mon jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (adsl-<num>-<num>-<num>-<num>.dsl.mtry<num>.pacbell.net) at mon jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (adsl-<num>-<num>-<num>-<num>.dsl.mtry<num>.pacbell.net) at mon jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (adsl-<num>-<num>-<num>-<num>.dsl.mtry<num>.pacbell.net) at mon jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (adsl-<num>-<num>-<num>-<num>.dsl.mtry<num>.pacbell.net) at mon jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (adsl-<num>-<num>-<num>-<num>.dsl.mtry<num>.pacbell.net) at mon jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (adsl-<num>-<num>-<num>-<num>.dsl.mtry<num>.pacbell.net) at mon jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (adsl-<num>-<num>-<num>-<num>.dsl.mtry<num>.pacbell.net) at mon jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (adsl-<num>-<num>-<num>-<num>.dsl.mtry<num>.pacbell.net) at mon jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (adsl-<num>-<num>-<num>-<num>.dsl.mtry<num>.pacbell.net) at mon jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (adsl-<num>-<num>-<num>-<num>.dsl.mtry<num>.pacbell.net) at mon jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (adsl-<num>-<num>-<num>-<num>.dsl.mtry<num>.pacbell.net) at mon jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (adsl-<num>-<num>-<num>-<num>.dsl.mtry<num>.pacbell.net) at mon jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (adsl-<num>-<num>-<num>-<num>.dsl.mtry<num>.pacbell.net) at mon jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (adsl-<num>-<num>-<num>-<num>.dsl.mtry<num>.pacbell.net) at mon jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (adsl-<num>-<num>-<num>-<num>.dsl.mtry<num>.pacbell.net) at mon jul  <num> <num>:<num>:<num> <num>
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+su(pam_unix): session opened for user cyrus by (uid=<num>)
+su(pam_unix): session closed for user cyrus
+logrotate: alert exited abnormally with
+su(pam_unix): session opened for user news by (uid=<num>)
+su(pam_unix): session closed for user news
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>
+ftpd: connection from <num>.<num>.<num>.<num> () at tue jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at tue jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at tue jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at tue jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at tue jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at tue jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at tue jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at tue jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at tue jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at tue jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at tue jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at tue jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at tue jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at tue jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at tue jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at tue jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at tue jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at tue jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at tue jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at tue jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at tue jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at tue jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at tue jul  <num> <num>:<num>:<num> <num>
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+su(pam_unix): session opened for user cyrus by (uid=<num>)
+su(pam_unix): session closed for user cyrus
+logrotate: alert exited abnormally with
+su(pam_unix): session opened for user news by (uid=<num>)
+su(pam_unix): session closed for user news
+ftpd: connection from <num>.<num>.<num>.<num> () at wed jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at wed jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at wed jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at wed jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at wed jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at wed jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at wed jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at wed jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at wed jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at wed jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at wed jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at wed jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at wed jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at wed jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at wed jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at wed jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at wed jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at wed jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at wed jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at wed jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at wed jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at wed jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at wed jul  <num> <num>:<num>:<num> <num>
+su(pam_unix): session opened for user cyrus by (uid=<num>)
+su(pam_unix): session closed for user cyrus
+logrotate: alert exited abnormally with
+su(pam_unix): session opened for user news by (uid=<num>)
+su(pam_unix): session closed for user news
+sshd(pam_unix): session opened for user test by (uid=<num>)
+sshd(pam_unix): session opened for user test by (uid=<num>)
+sshd(pam_unix): session closed for user test
+sshd(pam_unix): session opened for user test by (uid=<num>)
+sshd(pam_unix): session closed for user test
+sshd(pam_unix): session closed for user test
+sshd(pam_unix): session opened for user test by (uid=<num>)
+sshd(pam_unix): session opened for user test by (uid=<num>)
+sshd(pam_unix): session closed for user test
+sshd(pam_unix): session opened for user test by (uid=<num>)
+sshd(pam_unix): session closed for user test
+sshd(pam_unix): session closed for user test
+gpm: *** info [mice.c(<num>)]:
+gpm: imps<num>: auto-detected intellimouse ps/<num>
+login(pam_unix): session opened for user root by login(uid=<num>)
+-- root: root login on tty<num>
+login(pam_unix): session closed for user root
+udev: removing device node '/udev/vcsa<num>'
+udev: removing device node '/udev/vcs<num>'
+udev: creating device node '/udev/vcs<num>'
+udev: creating device node '/udev/vcsa<num>'
+udev: removing device node '/udev/vcs<num>'
+udev: removing device node '/udev/vcsa<num>'
+udev: creating device node '/udev/vcs<num>'
+udev: creating device node '/udev/vcsa<num>'
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=c<num>.virtua.com.br
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=c<num>.virtua.com.br
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=c<num>.virtua.com.br
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=c<num>.virtua.com.br
+ftpd: connection from <num>.<num>.<num>.<num> () at thu jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at thu jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at thu jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at thu jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at thu jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at thu jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at thu jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at thu jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at thu jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at thu jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at thu jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at thu jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at thu jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at thu jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at thu jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at thu jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at thu jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at thu jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at thu jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at thu jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at thu jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at thu jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at thu jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at thu jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at thu jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at thu jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at thu jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at thu jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at thu jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at thu jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at thu jul  <num> <num>:<num>:<num> <num>
+su(pam_unix): session opened for user cyrus by (uid=<num>)
+su(pam_unix): session closed for user cyrus
+logrotate: alert exited abnormally with
+su(pam_unix): session opened for user news by (uid=<num>)
+su(pam_unix): session closed for user news
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=test
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=test
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=test
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=test
+su(pam_unix): session opened for user cyrus by (uid=<num>)
+su(pam_unix): session closed for user cyrus
+logrotate: alert exited abnormally with
+su(pam_unix): session opened for user news by (uid=<num>)
+su(pam_unix): session closed for user news
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jul  <num> <num>:<num>:<num> <num>
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=p<num>.pureserver.info  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=p<num>.pureserver.info  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=p<num>.pureserver.info  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=p<num>.pureserver.info  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=p<num>.pureserver.info  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=p<num>.pureserver.info  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=p<num>.pureserver.info  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=p<num>.pureserver.info  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=p<num>.pureserver.info  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=p<num>.pureserver.info  user=root
+ftpd: connection from <num>.<num>.<num>.<num> (host<num>.<num>.<num>.<num>.maximumasp.com) at sat jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (host<num>.<num>.<num>.<num>.maximumasp.com) at sat jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (host<num>.<num>.<num>.<num>.maximumasp.com) at sat jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (host<num>.<num>.<num>.<num>.maximumasp.com) at sat jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (host<num>.<num>.<num>.<num>.maximumasp.com) at sat jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (host<num>.<num>.<num>.<num>.maximumasp.com) at sat jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (host<num>.<num>.<num>.<num>.maximumasp.com) at sat jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (host<num>.<num>.<num>.<num>.maximumasp.com) at sat jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (host<num>.<num>.<num>.<num>.maximumasp.com) at sat jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (host<num>.<num>.<num>.<num>.maximumasp.com) at sat jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (host<num>.<num>.<num>.<num>.maximumasp.com) at sat jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (host<num>.<num>.<num>.<num>.maximumasp.com) at sat jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (host<num>.<num>.<num>.<num>.maximumasp.com) at sat jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (host<num>.<num>.<num>.<num>.maximumasp.com) at sat jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (host<num>.<num>.<num>.<num>.maximumasp.com) at sat jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (host<num>.<num>.<num>.<num>.maximumasp.com) at sat jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (host<num>.<num>.<num>.<num>.maximumasp.com) at sat jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (host<num>.<num>.<num>.<num>.maximumasp.com) at sat jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (host<num>.<num>.<num>.<num>.maximumasp.com) at sat jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (host<num>.<num>.<num>.<num>.maximumasp.com) at sat jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (host<num>.<num>.<num>.<num>.maximumasp.com) at sat jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (host<num>.<num>.<num>.<num>.maximumasp.com) at sat jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (host<num>.<num>.<num>.<num>.maximumasp.com) at sat jul  <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+su(pam_unix): session opened for user cyrus by (uid=<num>)
+su(pam_unix): session closed for user cyrus
+cups: cupsd shutdown succeeded
+cups: cupsd startup succeeded
+syslogd <num>.<num>.<num>: restart.
+logrotate: alert exited abnormally with
+su(pam_unix): session opened for user news by (uid=<num>)
+su(pam_unix): session closed for user news
+ftpd: connection from <num>.<num>.<num>.<num> (dsl-<num>-<num>-<num>-<num>.arcor-ip.net) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (dsl-<num>-<num>-<num>-<num>.arcor-ip.net) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (dsl-<num>-<num>-<num>-<num>.arcor-ip.net) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (dsl-<num>-<num>-<num>-<num>.arcor-ip.net) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (dsl-<num>-<num>-<num>-<num>.arcor-ip.net) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (dsl-<num>-<num>-<num>-<num>.arcor-ip.net) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (dsl-<num>-<num>-<num>-<num>.arcor-ip.net) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (dsl-<num>-<num>-<num>-<num>.arcor-ip.net) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (dsl-<num>-<num>-<num>-<num>.arcor-ip.net) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (dsl-<num>-<num>-<num>-<num>.arcor-ip.net) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (dsl-<num>-<num>-<num>-<num>.arcor-ip.net) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (dsl-<num>-<num>-<num>-<num>.arcor-ip.net) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (dsl-<num>-<num>-<num>-<num>.arcor-ip.net) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (dsl-<num>-<num>-<num>-<num>.arcor-ip.net) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (dsl-<num>-<num>-<num>-<num>.arcor-ip.net) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (dsl-<num>-<num>-<num>-<num>.arcor-ip.net) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (dsl-<num>-<num>-<num>-<num>.arcor-ip.net) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (dsl-<num>-<num>-<num>-<num>.arcor-ip.net) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (dsl-<num>-<num>-<num>-<num>.arcor-ip.net) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (dsl-<num>-<num>-<num>-<num>.arcor-ip.net) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (dsl-<num>-<num>-<num>-<num>.arcor-ip.net) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (dsl-<num>-<num>-<num>-<num>.arcor-ip.net) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (dsl-<num>-<num>-<num>-<num>.arcor-ip.net) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+su(pam_unix): session opened for user cyrus by (uid=<num>)
+su(pam_unix): session closed for user cyrus
+logrotate: alert exited abnormally with
+su(pam_unix): session opened for user news by (uid=<num>)
+su(pam_unix): session closed for user news
+gdm(pam_unix): check pass; user unknown
+gdm(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=:<num> ruser= rhost=
+gdm-binary: couldn't authenticate user
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+su(pam_unix): session opened for user cyrus by (uid=<num>)
+su(pam_unix): session closed for user cyrus
+logrotate: alert exited abnormally with
+su(pam_unix): session opened for user news by (uid=<num>)
+su(pam_unix): session closed for user news
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>.nw.nuvox.net  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>.nw.nuvox.net  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>.nw.nuvox.net  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>.nw.nuvox.net  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>.nw.nuvox.net  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>.nw.nuvox.net  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>.nw.nuvox.net  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>.nw.nuvox.net  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>.nw.nuvox.net  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>.nw.nuvox.net  user=root
+su(pam_unix): session opened for user cyrus by (uid=<num>)
+su(pam_unix): session closed for user cyrus
+logrotate: alert exited abnormally with
+su(pam_unix): session opened for user news by (uid=<num>)
+su(pam_unix): session closed for user news
+sshd(pam_unix): session opened for user test by (uid=<num>)
+sshd(pam_unix): session opened for user test by (uid=<num>)
+sshd(pam_unix): session closed for user test
+sshd(pam_unix): session closed for user test
+sshd(pam_unix): session opened for user test by (uid=<num>)
+sshd(pam_unix): session closed for user test
+su(pam_unix): session opened for user cyrus by (uid=<num>)
+su(pam_unix): session closed for user cyrus
+logrotate: alert exited abnormally with
+su(pam_unix): session opened for user news by (uid=<num>)
+su(pam_unix): session closed for user news
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>-<num>-<num>-<num>.adsl.ttn.net  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>-<num>-<num>-<num>.adsl.ttn.net  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>-<num>-<num>-<num>.adsl.ttn.net  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>-<num>-<num>-<num>.adsl.ttn.net  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>-<num>-<num>-<num>.adsl.ttn.net  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>-<num>-<num>-<num>.adsl.ttn.net  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>-<num>-<num>-<num>.adsl.ttn.net  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>-<num>-<num>-<num>.adsl.ttn.net  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=c<num>f<num>c.cable.wanadoo.nl  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=c<num>f<num>c.cable.wanadoo.nl  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=c<num>f<num>c.cable.wanadoo.nl  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=c<num>f<num>c.cable.wanadoo.nl  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=c<num>f<num>c.cable.wanadoo.nl  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=c<num>f<num>c.cable.wanadoo.nl  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=c<num>f<num>c.cable.wanadoo.nl  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=c<num>f<num>c.cable.wanadoo.nl  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=c<num>f<num>c.cable.wanadoo.nl  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=c<num>f<num>c.cable.wanadoo.nl  user=root
+su(pam_unix): session opened for user cyrus by (uid=<num>)
+su(pam_unix): session closed for user cyrus
+logrotate: alert exited abnormally with
+su(pam_unix): session opened for user news by (uid=<num>)
+su(pam_unix): session closed for user news
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jul <num> <num>:<num>:<num> <num>
+su(pam_unix): session opened for user cyrus by (uid=<num>)
+su(pam_unix): session closed for user cyrus
+logrotate: alert exited abnormally with
+su(pam_unix): session opened for user news by (uid=<num>)
+su(pam_unix): session closed for user news
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sat jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (aml-sfh-<num>b.adsl.wanadoo.nl) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (aml-sfh-<num>b.adsl.wanadoo.nl) at sun jul <num> <num>:<num>:<num> <num>
+su(pam_unix): session opened for user cyrus by (uid=<num>)
+su(pam_unix): session closed for user cyrus
+cups: cupsd shutdown succeeded
+cups: cupsd startup succeeded
+syslogd <num>.<num>.<num>: restart.
+logrotate: alert exited abnormally with
+su(pam_unix): session opened for user news by (uid=<num>)
+su(pam_unix): session closed for user news
+ftpd: connection from <num>.<num>.<num>.<num> (aml-sfh-<num>b.adsl.wanadoo.nl) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (aml-sfh-<num>b.adsl.wanadoo.nl) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (aml-sfh-<num>b.adsl.wanadoo.nl) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (aml-sfh-<num>b.adsl.wanadoo.nl) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (aml-sfh-<num>b.adsl.wanadoo.nl) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (aml-sfh-<num>b.adsl.wanadoo.nl) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (aml-sfh-<num>b.adsl.wanadoo.nl) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (aml-sfh-<num>b.adsl.wanadoo.nl) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (aml-sfh-<num>b.adsl.wanadoo.nl) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (aml-sfh-<num>b.adsl.wanadoo.nl) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (aml-sfh-<num>b.adsl.wanadoo.nl) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (aml-sfh-<num>b.adsl.wanadoo.nl) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (aml-sfh-<num>b.adsl.wanadoo.nl) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (aml-sfh-<num>b.adsl.wanadoo.nl) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (aml-sfh-<num>b.adsl.wanadoo.nl) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (aml-sfh-<num>b.adsl.wanadoo.nl) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (aml-sfh-<num>b.adsl.wanadoo.nl) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (aml-sfh-<num>b.adsl.wanadoo.nl) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (aml-sfh-<num>b.adsl.wanadoo.nl) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (aml-sfh-<num>b.adsl.wanadoo.nl) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (aml-sfh-<num>b.adsl.wanadoo.nl) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (aml-sfh-<num>b.adsl.wanadoo.nl) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (aml-sfh-<num>b.adsl.wanadoo.nl) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (aml-sfh-<num>b.adsl.wanadoo.nl) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (aml-sfh-<num>b.adsl.wanadoo.nl) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (aml-sfh-<num>b.adsl.wanadoo.nl) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (aml-sfh-<num>b.adsl.wanadoo.nl) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (aml-sfh-<num>b.adsl.wanadoo.nl) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (aml-sfh-<num>b.adsl.wanadoo.nl) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (aml-sfh-<num>b.adsl.wanadoo.nl) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>-<num>-<num>-<num>.hinet-ip.hinet.net  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>-<num>-<num>-<num>.hinet-ip.hinet.net  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>-<num>-<num>-<num>.hinet-ip.hinet.net  user=root
+ftpd: connection from <num>.<num>.<num>.<num> (host<num>.topspot.net) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (host<num>.topspot.net) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (host<num>.topspot.net) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (host<num>.topspot.net) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (host<num>.topspot.net) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (host<num>.topspot.net) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (host<num>.topspot.net) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (host<num>.topspot.net) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (host<num>.topspot.net) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (host<num>.topspot.net) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (host<num>.topspot.net) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (host<num>.topspot.net) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (host<num>.topspot.net) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (host<num>.topspot.net) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (host<num>.topspot.net) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (host<num>.topspot.net) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (host<num>.topspot.net) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (host<num>.topspot.net) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (host<num>.topspot.net) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (host<num>.topspot.net) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (host<num>.topspot.net) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (host<num>.topspot.net) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (host<num>.topspot.net) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (host<num>.topspot.net) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (host<num>.topspot.net) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (host<num>.topspot.net) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (host<num>.topspot.net) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (host<num>.topspot.net) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (host<num>.topspot.net) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (host<num>.topspot.net) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (host<num>.topspot.net) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (host<num>.topspot.net) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (host<num>.topspot.net) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (host<num>.topspot.net) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (host<num>.topspot.net) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (host<num>.topspot.net) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (host<num>.topspot.net) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (host<num>.topspot.net) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (host<num>.topspot.net) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (host<num>.topspot.net) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (host<num>.topspot.net) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (host<num>.topspot.net) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (host<num>.topspot.net) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (host<num>.topspot.net) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (host<num>.topspot.net) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (host<num>.topspot.net) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (dsl-chn-static-<num>.<num>.<num>.<num>.touchtelindia.net) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (dsl-chn-static-<num>.<num>.<num>.<num>.touchtelindia.net) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (dsl-chn-static-<num>.<num>.<num>.<num>.touchtelindia.net) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (dsl-chn-static-<num>.<num>.<num>.<num>.touchtelindia.net) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (dsl-chn-static-<num>.<num>.<num>.<num>.touchtelindia.net) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (dsl-chn-static-<num>.<num>.<num>.<num>.touchtelindia.net) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (dsl-chn-static-<num>.<num>.<num>.<num>.touchtelindia.net) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (dsl-chn-static-<num>.<num>.<num>.<num>.touchtelindia.net) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (dsl-chn-static-<num>.<num>.<num>.<num>.touchtelindia.net) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (dsl-chn-static-<num>.<num>.<num>.<num>.touchtelindia.net) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (dsl-chn-static-<num>.<num>.<num>.<num>.touchtelindia.net) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (dsl-chn-static-<num>.<num>.<num>.<num>.touchtelindia.net) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (dsl-chn-static-<num>.<num>.<num>.<num>.touchtelindia.net) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (dsl-chn-static-<num>.<num>.<num>.<num>.touchtelindia.net) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (dsl-chn-static-<num>.<num>.<num>.<num>.touchtelindia.net) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (dsl-chn-static-<num>.<num>.<num>.<num>.touchtelindia.net) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (dsl-chn-static-<num>.<num>.<num>.<num>.touchtelindia.net) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (dsl-chn-static-<num>.<num>.<num>.<num>.touchtelindia.net) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (dsl-chn-static-<num>.<num>.<num>.<num>.touchtelindia.net) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (dsl-chn-static-<num>.<num>.<num>.<num>.touchtelindia.net) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (dsl-chn-static-<num>.<num>.<num>.<num>.touchtelindia.net) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (dsl-chn-static-<num>.<num>.<num>.<num>.touchtelindia.net) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (dsl-chn-static-<num>.<num>.<num>.<num>.touchtelindia.net) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (<num>-<num>-<num>-<num>.dsl.in-addr.zen.co.uk) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (<num>-<num>-<num>-<num>.dsl.in-addr.zen.co.uk) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (<num>-<num>-<num>-<num>.dsl.in-addr.zen.co.uk) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (<num>-<num>-<num>-<num>.dsl.in-addr.zen.co.uk) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (<num>-<num>-<num>-<num>.dsl.in-addr.zen.co.uk) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (<num>-<num>-<num>-<num>.dsl.in-addr.zen.co.uk) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (<num>-<num>-<num>-<num>.dsl.in-addr.zen.co.uk) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (<num>-<num>-<num>-<num>.dsl.in-addr.zen.co.uk) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (<num>-<num>-<num>-<num>.dsl.in-addr.zen.co.uk) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (<num>-<num>-<num>-<num>.dsl.in-addr.zen.co.uk) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (<num>-<num>-<num>-<num>.dsl.in-addr.zen.co.uk) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (<num>-<num>-<num>-<num>.dsl.in-addr.zen.co.uk) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (<num>-<num>-<num>-<num>.dsl.in-addr.zen.co.uk) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (<num>-<num>-<num>-<num>.dsl.in-addr.zen.co.uk) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (<num>-<num>-<num>-<num>.dsl.in-addr.zen.co.uk) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (<num>-<num>-<num>-<num>.dsl.in-addr.zen.co.uk) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (<num>-<num>-<num>-<num>.dsl.in-addr.zen.co.uk) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (<num>-<num>-<num>-<num>.dsl.in-addr.zen.co.uk) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (<num>-<num>-<num>-<num>.dsl.in-addr.zen.co.uk) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (<num>-<num>-<num>-<num>.dsl.in-addr.zen.co.uk) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (<num>-<num>-<num>-<num>.dsl.in-addr.zen.co.uk) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (<num>-<num>-<num>-<num>.dsl.in-addr.zen.co.uk) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (<num>-<num>-<num>-<num>.dsl.in-addr.zen.co.uk) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (<num>-<num>-<num>-<num>.dsl.in-addr.zen.co.uk) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (<num>-<num>-<num>-<num>.dsl.in-addr.zen.co.uk) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (<num>-<num>-<num>-<num>.dsl.in-addr.zen.co.uk) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (<num>-<num>-<num>-<num>.dsl.in-addr.zen.co.uk) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (<num>-<num>-<num>-<num>.dsl.in-addr.zen.co.uk) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (<num>-<num>-<num>-<num>.dsl.in-addr.zen.co.uk) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (<num>-<num>-<num>-<num>.dsl.in-addr.zen.co.uk) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (<num>-<num>-<num>-<num>.dsl.in-addr.zen.co.uk) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (<num>-<num>-<num>-<num>.dsl.in-addr.zen.co.uk) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (<num>-<num>-<num>-<num>.dsl.in-addr.zen.co.uk) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (<num>-<num>-<num>-<num>.dsl.in-addr.zen.co.uk) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (<num>-<num>-<num>-<num>.dsl.in-addr.zen.co.uk) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (<num>-<num>-<num>-<num>.dsl.in-addr.zen.co.uk) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (<num>-<num>-<num>-<num>.dsl.in-addr.zen.co.uk) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (<num>-<num>-<num>-<num>.dsl.in-addr.zen.co.uk) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (<num>-<num>-<num>-<num>.dsl.in-addr.zen.co.uk) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (<num>-<num>-<num>-<num>.dsl.in-addr.zen.co.uk) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (<num>-<num>-<num>-<num>.dsl.in-addr.zen.co.uk) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (<num>-<num>-<num>-<num>.dsl.in-addr.zen.co.uk) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (<num>-<num>-<num>-<num>.dsl.in-addr.zen.co.uk) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (<num>-<num>-<num>-<num>.dsl.in-addr.zen.co.uk) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (<num>-<num>-<num>-<num>.dsl.in-addr.zen.co.uk) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> (<num>-<num>-<num>-<num>.dsl.in-addr.zen.co.uk) at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at mon jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at mon jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at mon jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at mon jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at mon jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at mon jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at mon jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at mon jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at mon jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at mon jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at mon jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at mon jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at mon jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at mon jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at mon jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at mon jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at mon jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at mon jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at mon jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at mon jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at mon jul <num> <num>:<num>:<num> <num>
+su(pam_unix): session opened for user cyrus by (uid=<num>)
+su(pam_unix): session closed for user cyrus
+logrotate: alert exited abnormally with
+su(pam_unix): session opened for user news by (uid=<num>)
+su(pam_unix): session closed for user news
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>-<num>-<num>-<num>.ebix.net.tw
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>-<num>-<num>-<num>.ebix.net.tw
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>-<num>-<num>-<num>.ebix.net.tw
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>-<num>-<num>-<num>.ebix.net.tw
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>-<num>-<num>-<num>.ebix.net.tw
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>-<num>-<num>-<num>.ebix.net.tw
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>-<num>-<num>-<num>.ebix.net.tw
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>-<num>-<num>-<num>.ebix.net.tw
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>-<num>-<num>-<num>.ebix.net.tw
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>-<num>-<num>-<num>.ebix.net.tw
+su(pam_unix): session opened for user cyrus by (uid=<num>)
+su(pam_unix): session closed for user cyrus
+logrotate: alert exited abnormally with
+su(pam_unix): session opened for user news by (uid=<num>)
+su(pam_unix): session closed for user news
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+su(pam_unix): session opened for user cyrus by (uid=<num>)
+su(pam_unix): session closed for user cyrus
+logrotate: alert exited abnormally with
+su(pam_unix): session opened for user news by (uid=<num>)
+su(pam_unix): session closed for user news
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>
+sshd(pam_unix): check pass; user unknown
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+su(pam_unix): session opened for user cyrus by (uid=<num>)
+su(pam_unix): session closed for user cyrus
+logrotate: alert exited abnormally with
+su(pam_unix): session opened for user news by (uid=<num>)
+su(pam_unix): session closed for user news
+ftpd: connection from <num>.<num>.<num>.<num> () at thu jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at thu jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at thu jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at thu jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at thu jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at thu jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at thu jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at thu jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at thu jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at thu jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at thu jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at thu jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at thu jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at thu jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at thu jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at thu jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at thu jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at thu jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at thu jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at thu jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at thu jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at thu jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at thu jul <num> <num>:<num>:<num> <num>
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+su(pam_unix): session opened for user cyrus by (uid=<num>)
+su(pam_unix): session closed for user cyrus
+logrotate: alert exited abnormally with
+su(pam_unix): session opened for user news by (uid=<num>)
+su(pam_unix): session closed for user news
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at fri jul <num> <num>:<num>:<num> <num>
+su(pam_unix): session opened for user cyrus by (uid=<num>)
+su(pam_unix): session closed for user cyrus
+logrotate: alert exited abnormally with
+su(pam_unix): session opened for user news by (uid=<num>)
+su(pam_unix): session closed for user news
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: anonymous ftp login from <num>.<num>.<num>.<num>,  (anonymous)
+ftpd: anonymous ftp login from <num>.<num>.<num>.<num>,  (anonymous)
+su(pam_unix): session opened for user cyrus by (uid=<num>)
+su(pam_unix): session closed for user cyrus
+cups: cupsd shutdown succeeded
+cups: cupsd startup succeeded
+syslogd <num>.<num>.<num>: restart.
+logrotate: alert exited abnormally with
+su(pam_unix): session opened for user news by (uid=<num>)
+su(pam_unix): session closed for user news
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at sun jul <num> <num>:<num>:<num> <num>
+su(pam_unix): session opened for user cyrus by (uid=<num>)
+su(pam_unix): session closed for user cyrus
+logrotate: alert exited abnormally with
+su(pam_unix): session opened for user news by (uid=<num>)
+su(pam_unix): session closed for user news
+ftpd: connection from <num>.<num>.<num>.<num> () at mon jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at mon jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at mon jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at mon jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at mon jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at mon jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at mon jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at mon jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at mon jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at mon jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at mon jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at mon jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at mon jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at mon jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at mon jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at mon jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at mon jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at mon jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at mon jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at mon jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at mon jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at mon jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at mon jul <num> <num>:<num>:<num> <num>
+named: notify question section contains no soa
+named: notify question section contains no soa
+named: notify question section contains no soa
+named: notify question section contains no soa
+named: notify question section contains no soa
+named: notify question section contains no soa
+named: notify question section contains no soa
+named: notify question section contains no soa
+named: notify question section contains no soa
+named: notify question section contains no soa
+named: notify question section contains no soa
+named: notify question section contains no soa
+named: notify question section contains no soa
+named: notify question section contains no soa
+named: notify question section contains no soa
+named: notify question section contains no soa
+ftpd: getpeername (ftpd): transport endpoint is not connected
+ftpd: getpeername (ftpd): transport endpoint is not connected
+xinetd: warning: can't get client address: connection reset by peer
+ftpd: getpeername (ftpd): transport endpoint is not connected
+xinetd: warning: can't get client address: connection reset by peer
+ftpd: getpeername (ftpd): transport endpoint is not connected
+ftpd: connection from <num>.<num>.<num>.<num> () at mon jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at mon jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at mon jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at mon jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at mon jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at mon jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at mon jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at mon jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at mon jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at mon jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at mon jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at mon jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at mon jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at mon jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at mon jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at mon jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at mon jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at mon jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at mon jul <num> <num>:<num>:<num> <num>
+su(pam_unix): session opened for user cyrus by (uid=<num>)
+su(pam_unix): session closed for user cyrus
+logrotate: alert exited abnormally with
+su(pam_unix): session opened for user news by (uid=<num>)
+su(pam_unix): session closed for user news
+ftpd: connection from <num>.<num>.<num>.<num> () at tue jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at tue jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at tue jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at tue jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at tue jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at tue jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at tue jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at tue jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at tue jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at tue jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at tue jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at tue jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at tue jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at tue jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at tue jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at tue jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at tue jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at tue jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at tue jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at tue jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at tue jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at tue jul <num> <num>:<num>:<num> <num>
+ftpd: connection from <num>.<num>.<num>.<num> () at tue jul <num> <num>:<num>:<num> <num>
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+sshd(pam_unix): authentication failure; logname= uid=<num> euid=<num> tty=nodevssh ruser= rhost=<num>.<num>.<num>.<num>  user=root
+su(pam_unix): session opened for user cyrus by (uid=<num>)
+su(pam_unix): session closed for user cyrus
+logrotate: alert exited abnormally with
+su(pam_unix): session opened for user news by (uid=<num>)
+su(pam_unix): session closed for user news
+ftpd: connection from <num>.<num>.<num>.<num> () at wed jul <num> <num>:<num>:<num> <num>
+syslogd <num>.<num>.<num>: restart.
+syslog: syslogd startup succeeded
+kernel: klogd <num>.<num>.<num>, log source = /proc/kmsg started.
+kernel: linux version <num>.<num>.<num>-<num>.<num> (bhcompile@bugs.build.redhat.com) (gcc version <num>.<num>.<num> <num> (red hat linux <num>.<num>.<num>-<num>)) #<num> sat may <num> <num>:<num>:<num> edt <num>
+kernel: bios-provided physical ram map:
+kernel:  bios-e<num>: <num> - <num>a<num> (usable)
+kernel:  bios-e<num>: <num>f<num> - <num> (reserved)
+kernel:  bios-e<num>: <num> - <num>eae<num> (usable)
+kernel:  bios-e<num>: <num>eae<num> - <num> (reserved)
+kernel:  bios-e<num>: <num>ffb<num> - <num> (reserved)
+kernel: <num>mb highmem available.
+kernel: <num>mb lowmem available.
+kernel: zapping low mappings.
+syslog: klogd startup succeeded
+kernel: on node <num> totalpages: <num>
+kernel:   dma zone: <num> pages, lifo batch:<num>
+kernel:   normal zone: <num> pages, lifo batch:<num>
+irqbalance: irqbalance startup succeeded
+kernel:   highmem zone: <num> pages, lifo batch:<num>
+kernel: dmi <num>.<num> present.
+kernel: acpi disabled because your bios is from <num> and too old
+kernel: you can enable it with acpi=force
+kernel: built <num> zonelists
+kernel: kernel command line: ro root=label=/ rhgb quiet
+kernel: mapped <num>g/<num>g trampoline to ffff<num>.
+kernel: initializing cpu#<num>
+kernel: cpu <num> irqstacks, hard=<num> soft=<num>
+portmap: portmap startup succeeded
+kernel: pid hash table entries: <num> (order <num>: <num> bytes)
+kernel: detected <num>.<num> mhz processor.
+rpc.statd: version <num>.<num>.<num> starting
+kernel: using tsc for high-res timesource
+nfslock: rpc.statd startup succeeded
+kernel: console: colour vga+ <num>x<num>
+kernel: memory: <num>k/<num>k available (<num>k kernel code, <num>k reserved, <num>k data, <num>k init, <num>k highmem)
+kernel: calibrating delay loop... <num>.<num> bogomips
+kernel: security scaffold v<num>.<num>.<num> initialized
+kernel: selinux:  initializing.
+kernel: selinux:  starting in permissive mode
+kernel: there is already a security framework initialized, register_security failed.
+kernel: failure registering capabilities with the kernel
+kernel: selinux_register_security:  registering secondary module capability
+kernel: capability lsm initialized
+rpcidmapd: rpc.idmapd startup succeeded
+kernel: dentry cache hash table entries: <num> (order: <num>, <num> bytes)
+kernel: inode-cache hash table entries: <num> (order: <num>, <num> bytes)
+kernel: mount-cache hash table entries: <num> (order: <num>, <num> bytes)
+kernel: cpu: l<num> i cache: <num>k, l<num> d cache: <num>k
+kernel: cpu: l<num> cache: <num>k
+kernel: intel machine check architecture supported.
+kernel: intel machine check reporting enabled on cpu#<num>.
+kernel: cpu: intel pentium iii (coppermine) stepping <num>
+kernel: enabling fast fpu save and restore... done.
+kernel: enabling unmasked simd fpu exception support... done.
+kernel: checking 'hlt' instruction... ok.
+random: initializing random number generator:  succeeded
+kernel: posix conformance testing by unifix
+kernel: net: registered protocol family <num>
+kernel: pci: pci bios revision <num>.<num> entry at <num>xfc<num>ce, last bus=<num>
+kernel: pci: using configuration type <num>
+kernel: mtrr: v<num>.<num> (<num>)
+kernel: acpi: subsystem revision <num>
+kernel: acpi: interpreter disabled.
+kernel: linux plug and play support v<num>.<num> (c) adam belay
+rc: starting pcmcia:  succeeded
+kernel: usbcore: registered new driver usbfs
+kernel: usbcore: registered new driver hub
+kernel: acpi: acpi tables contain no pci irq routing entries
+kernel: pci: invalid acpi-pci irq routing table
+kernel: pci: probing pci hardware
+kernel: pci: probing pci hardware (bus <num>)
+kernel: transparent bridge - <num>:<num>:<num>e.<num>
+kernel: pci: using irq router piix/ich [<num>/<num>] at <num>:<num>:<num>f.<num>
+kernel: apm: bios version <num>.<num> flags <num>x<num> (driver version <num>.<num>ac)
+kernel: audit: initializing netlink socket (disabled)
+sysctl: kernel.core_uses_pid = <num>
+hcid: hci daemon ver <num>.<num> started
+bluetooth: hcid startup succeeded
+kernel: audit(<num>.<num>:<num>): initialized
+network: setting network parameters:  succeeded
+bluetooth: sdpd startup succeeded
+sdpd: sdpd v<num>.<num> started
+kernel: total hugetlb memory allocated, <num>
+network: bringing up loopback interface:  succeeded
+kernel: vfs: disk quotas dquot_<num>.<num>.<num>
+kernel: dquot-cache hash table entries: <num> (order <num>, <num> bytes)
+kernel: selinux:  registering netfilter hooks
+kernel: initializing cryptographic api
+kernel: pci_hotplug: pci hot plug pci core version: <num>.<num>
+kernel: isapnp: scanning for pnp cards...
+kernel: isapnp: no plug & play device found
+kernel: real time clock driver v<num>.<num>
+kernel: linux agpgart interface v<num>.<num> (c) dave jones

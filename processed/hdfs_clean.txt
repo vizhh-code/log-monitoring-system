@@ -1,0 +1,2001 @@
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/rand/_temporary/_task_<num>_<num>_m_<num>_<num>/part-<num>. <block>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/rand/_temporary/_task_<num>_<num>_m_<num>_<num>/part-<num>. <block>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/rand/_temporary/_task_<num>_<num>_m_<num>_<num>/part-<num>. <block>
+info dfs.datablockscanner: verification succeeded for <block>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/rand/_temporary/_task_<num>_<num>_m_<num>_<num>/part-<num>. <block>
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/rand/_temporary/_task_<num>_<num>_m_<num>_<num>/part-<num>. <block>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datablockscanner: verification succeeded for <block>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.datanode$dataxceiver: <ip>:<num> served block <block> to /<ip>
+info dfs.datanode$dataxceiver: <ip>:<num> served block <block> to /<ip>
+info dfs.datanode$dataxceiver: <ip>:<num> served block <block> to /<ip>
+info dfs.datanode$dataxceiver: <ip>:<num> served block <block> to /<ip>
+warn dfs.datanode$dataxceiver: <ip>:<num>:got exception while serving <block> to /<ip>:
+warn dfs.datanode$dataxceiver: <ip>:<num>:got exception while serving <block> to /<ip>:
+info dfs.datanode$dataxceiver: <ip>:<num> served block <block> to /<ip>
+warn dfs.datanode$dataxceiver: <ip>:<num>:got exception while serving <block> to /<ip>:
+warn dfs.datanode$dataxceiver: <ip>:<num>:got exception while serving <block> to /<ip>:
+info dfs.datanode$dataxceiver: <ip>:<num> served block <block> to /<ip>
+warn dfs.datanode$dataxceiver: <ip>:<num>:got exception while serving <block> to /<ip>:
+warn dfs.datanode$dataxceiver: <ip>:<num>:got exception while serving <block> to /<ip>:
+warn dfs.datanode$dataxceiver: <ip>:<num>:got exception while serving <block> to /<ip>:
+info dfs.datanode$dataxceiver: <ip>:<num> served block <block> to /<ip>
+warn dfs.datanode$dataxceiver: <ip>:<num>:got exception while serving <block> to /<ip>:
+warn dfs.datanode$dataxceiver: <ip>:<num>:got exception while serving <block> to /<ip>:
+info dfs.datanode$dataxceiver: <ip>:<num> served block <block> to /<ip>
+warn dfs.datanode$dataxceiver: <ip>:<num>:got exception while serving <block> to /<ip>:
+warn dfs.datanode$dataxceiver: <ip>:<num>:got exception while serving <block> to /<ip>:
+warn dfs.datanode$dataxceiver: <ip>:<num>:got exception while serving <block> to /<ip>:
+warn dfs.datanode$dataxceiver: <ip>:<num>:got exception while serving <block> to /<ip>:
+warn dfs.datanode$dataxceiver: <ip>:<num>:got exception while serving <block> to /<ip>:
+warn dfs.datanode$dataxceiver: <ip>:<num>:got exception while serving <block> to /<ip>:
+info dfs.datanode$dataxceiver: <ip>:<num> served block <block> to /<ip>
+warn dfs.datanode$dataxceiver: <ip>:<num>:got exception while serving <block> to /<ip>:
+warn dfs.datanode$dataxceiver: <ip>:<num>:got exception while serving <block> to /<ip>:
+warn dfs.datanode$dataxceiver: <ip>:<num>:got exception while serving <block> to /<ip>:
+warn dfs.datanode$dataxceiver: <ip>:<num>:got exception while serving <block> to /<ip>:
+warn dfs.datanode$dataxceiver: <ip>:<num>:got exception while serving <block> to /<ip>:
+warn dfs.datanode$dataxceiver: <ip>:<num>:got exception while serving <block> to /<ip>:
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/sortrand/_temporary/_task_<num>_<num>_r_<num>_<num>/part-<num>. <block>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/sortrand/_temporary/_task_<num>_<num>_r_<num>_<num>/part-<num>. <block>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/sortrand/_temporary/_task_<num>_<num>_r_<num>_<num>/part-<num>. <block>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/sortrand/_temporary/_task_<num>_<num>_r_<num>_<num>/part-<num>. <block>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/sortrand/_temporary/_task_<num>_<num>_r_<num>_<num>/part-<num>. <block>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/sortrand/_temporary/_task_<num>_<num>_r_<num>_<num>/part-<num>. <block>
+info dfs.datablockscanner: verification succeeded for <block>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/randtxt/_temporary/_task_<num>_<num>_m_<num>_<num>/part-<num>. <block>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/randtxt/_temporary/_task_<num>_<num>_m_<num>_<num>/part-<num>. <block>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datablockscanner: verification succeeded for <block>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/randtxt/_temporary/_task_<num>_<num>_m_<num>_<num>/part-<num>. <block>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/randtxt/_temporary/_task_<num>_<num>_m_<num>_<num>/part-<num>. <block>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/randtxt/_temporary/_task_<num>_<num>_m_<num>_<num>/part-<num>. <block>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/randtxt/_temporary/_task_<num>_<num>_m_<num>_<num>/part-<num>. <block>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/randtxt/_temporary/_task_<num>_<num>_m_<num>_<num>/part-<num>. <block>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/randtxt/_temporary/_task_<num>_<num>_m_<num>_<num>/part-<num>. <block>
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/randtxt/_temporary/_task_<num>_<num>_m_<num>_<num>/part-<num>. <block>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/randtxt/_temporary/_task_<num>_<num>_m_<num>_<num>/part-<num>. <block>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/randtxt/_temporary/_task_<num>_<num>_m_<num>_<num>/part-<num>. <block>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/randtxt/_temporary/_task_<num>_<num>_m_<num>_<num>/part-<num>. <block>
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/randtxt/_temporary/_task_<num>_<num>_m_<num>_<num>/part-<num>. <block>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/randtxt/_temporary/_task_<num>_<num>_m_<num>_<num>/part-<num>. <block>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/randtxt/_temporary/_task_<num>_<num>_m_<num>_<num>/part-<num>. <block>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.datanode$dataxceiver: <ip>:<num> served block <block> to /<ip>
+warn dfs.datanode$dataxceiver: <ip>:<num>:got exception while serving <block> to /<ip>:
+info dfs.datanode$dataxceiver: <ip>:<num> served block <block> to /<ip>
+warn dfs.datanode$dataxceiver: <ip>:<num>:got exception while serving <block> to /<ip>:
+warn dfs.datanode$dataxceiver: <ip>:<num>:got exception while serving <block> to /<ip>:
+info dfs.datanode$dataxceiver: <ip>:<num> served block <block> to /<ip>
+warn dfs.datanode$dataxceiver: <ip>:<num>:got exception while serving <block> to /<ip>:
+info dfs.datanode$dataxceiver: <ip>:<num> served block <block> to /<ip>
+info dfs.datanode$dataxceiver: <ip>:<num> served block <block> to /<ip>
+info dfs.datanode$dataxceiver: <ip>:<num> served block <block> to /<ip>
+info dfs.datanode$dataxceiver: <ip>:<num> served block <block> to /<ip>
+info dfs.datanode$dataxceiver: <ip>:<num> served block <block> to /<ip>
+info dfs.datanode$dataxceiver: <ip>:<num> served block <block> to /<ip>
+info dfs.datanode$dataxceiver: <ip>:<num> served block <block> to /<ip>
+info dfs.datanode$dataxceiver: <ip>:<num> served block <block> to /<ip>
+info dfs.datanode$dataxceiver: <ip>:<num> served block <block> to /<ip>
+info dfs.datanode$dataxceiver: <ip>:<num> served block <block> to /<ip>
+warn dfs.datanode$dataxceiver: <ip>:<num>:got exception while serving <block> to /<ip>:
+info dfs.datanode$dataxceiver: <ip>:<num> served block <block> to /<ip>
+info dfs.datanode$dataxceiver: <ip>:<num> served block <block> to /<ip>
+info dfs.datanode$dataxceiver: <ip>:<num> served block <block> to /<ip>
+info dfs.datanode$dataxceiver: <ip>:<num> served block <block> to /<ip>
+info dfs.datanode$dataxceiver: <ip>:<num> served block <block> to /<ip>
+info dfs.datanode$dataxceiver: <ip>:<num> served block <block> to /<ip>
+warn dfs.datanode$dataxceiver: <ip>:<num>:got exception while serving <block> to /<ip>:
+info dfs.datanode$dataxceiver: <ip>:<num> served block <block> to /<ip>
+warn dfs.datanode$dataxceiver: <ip>:<num>:got exception while serving <block> to /<ip>:
+warn dfs.datanode$dataxceiver: <ip>:<num>:got exception while serving <block> to /<ip>:
+info dfs.datanode$dataxceiver: <ip>:<num> served block <block> to /<ip>
+info dfs.datanode$dataxceiver: <ip>:<num> served block <block> to /<ip>
+info dfs.datanode$dataxceiver: <ip>:<num> served block <block> to /<ip>
+info dfs.datanode$dataxceiver: <ip>:<num> served block <block> to /<ip>
+warn dfs.datanode$dataxceiver: <ip>:<num>:got exception while serving <block> to /<ip>:
+info dfs.datanode$dataxceiver: <ip>:<num> served block <block> to /<ip>
+info dfs.datanode$dataxceiver: <ip>:<num> served block <block> to /<ip>
+warn dfs.datanode$dataxceiver: <ip>:<num>:got exception while serving <block> to /<ip>:
+warn dfs.datanode$dataxceiver: <ip>:<num>:got exception while serving <block> to /<ip>:
+warn dfs.datanode$dataxceiver: <ip>:<num>:got exception while serving <block> to /<ip>:
+warn dfs.datanode$dataxceiver: <ip>:<num>:got exception while serving <block> to /<ip>:
+info dfs.datanode$dataxceiver: <ip>:<num> served block <block> to /<ip>
+warn dfs.datanode$dataxceiver: <ip>:<num>:got exception while serving <block> to /<ip>:
+warn dfs.datanode$dataxceiver: <ip>:<num>:got exception while serving <block> to /<ip>:
+info dfs.datanode$dataxceiver: <ip>:<num> served block <block> to /<ip>
+info dfs.datanode$dataxceiver: <ip>:<num> served block <block> to /<ip>
+info dfs.datanode$dataxceiver: <ip>:<num> served block <block> to /<ip>
+warn dfs.datanode$dataxceiver: <ip>:<num>:got exception while serving <block> to /<ip>:
+warn dfs.datanode$dataxceiver: <ip>:<num>:got exception while serving <block> to /<ip>:
+warn dfs.datanode$dataxceiver: <ip>:<num>:got exception while serving <block> to /<ip>:
+warn dfs.datanode$dataxceiver: <ip>:<num>:got exception while serving <block> to /<ip>:
+warn dfs.datanode$dataxceiver: <ip>:<num>:got exception while serving <block> to /<ip>:
+info dfs.datanode$dataxceiver: <ip>:<num> served block <block> to /<ip>
+info dfs.datanode$dataxceiver: <ip>:<num> served block <block> to /<ip>
+info dfs.datanode$dataxceiver: <ip>:<num> served block <block> to /<ip>
+info dfs.datablockscanner: verification succeeded for <block>
+info dfs.datablockscanner: verification succeeded for <block>
+info dfs.datablockscanner: verification succeeded for <block>
+warn dfs.datanode$dataxceiver: <ip>:<num>:got exception while serving <block> to /<ip>:
+warn dfs.datanode$dataxceiver: <ip>:<num>:got exception while serving <block> to /<ip>:
+warn dfs.datanode$dataxceiver: <ip>:<num>:got exception while serving <block> to /<ip>:
+info dfs.datanode$dataxceiver: <ip>:<num> served block <block> to /<ip>
+info dfs.datanode$dataxceiver: <ip>:<num> served block <block> to /<ip>
+warn dfs.datanode$dataxceiver: <ip>:<num>:got exception while serving <block> to /<ip>:
+info dfs.datanode$dataxceiver: <ip>:<num> served block <block> to /<ip>
+info dfs.datanode$dataxceiver: <ip>:<num> served block <block> to /<ip>
+warn dfs.datanode$dataxceiver: <ip>:<num>:got exception while serving <block> to /<ip>:
+info dfs.datablockscanner: verification succeeded for <block>
+info dfs.datanode$dataxceiver: <ip>:<num> served block <block> to /<ip>
+warn dfs.datanode$dataxceiver: <ip>:<num>:got exception while serving <block> to /<ip>:
+info dfs.datanode$dataxceiver: <ip>:<num> served block <block> to /<ip>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/rand/_temporary/_task_<num>_<num>_m_<num>_<num>/part-<num>. <block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/rand/_temporary/_task_<num>_<num>_m_<num>_<num>/part-<num>. <block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/rand/_temporary/_task_<num>_<num>_m_<num>_<num>/part-<num>. <block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/rand/_temporary/_task_<num>_<num>_m_<num>_<num>/part-<num>. <block>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/rand/_temporary/_task_<num>_<num>_m_<num>_<num>/part-<num>. <block>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/rand/_temporary/_task_<num>_<num>_m_<num>_<num>/part-<num>. <block>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/rand/_temporary/_task_<num>_<num>_m_<num>_<num>/part-<num>. <block>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/rand/_temporary/_task_<num>_<num>_m_<num>_<num>/part-<num>. <block>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/rand/_temporary/_task_<num>_<num>_m_<num>_<num>/part-<num>. <block>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/rand/_temporary/_task_<num>_<num>_m_<num>_<num>/part-<num>. <block>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datablockscanner: verification succeeded for <block>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/randtxt<num>/_temporary/_task_<num>_<num>_m_<num>_<num>/part-<num>. <block>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/randtxt<num>/_temporary/_task_<num>_<num>_m_<num>_<num>/part-<num>. <block>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/randtxt<num>/_temporary/_task_<num>_<num>_m_<num>_<num>/part-<num>. <block>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/randtxt<num>/_temporary/_task_<num>_<num>_m_<num>_<num>/part-<num>. <block>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datablockscanner: verification succeeded for <block>
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/randtxt<num>/_temporary/_task_<num>_<num>_m_<num>_<num>/part-<num>. <block>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/randtxt<num>/_temporary/_task_<num>_<num>_m_<num>_<num>/part-<num>. <block>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$dataxceiver: <ip>:<num> served block <block> to /<ip>
+warn dfs.datanode$dataxceiver: <ip>:<num>:got exception while serving <block> to /<ip>:
+warn dfs.datanode$dataxceiver: <ip>:<num>:got exception while serving <block> to /<ip>:
+warn dfs.datanode$dataxceiver: <ip>:<num>:got exception while serving <block> to /<ip>:
+warn dfs.datanode$dataxceiver: <ip>:<num>:got exception while serving <block> to /<ip>:
+warn dfs.datanode$dataxceiver: <ip>:<num>:got exception while serving <block> to /<ip>:
+warn dfs.datanode$dataxceiver: <ip>:<num>:got exception while serving <block> to /<ip>:
+info dfs.datanode$dataxceiver: <ip>:<num> served block <block> to /<ip>
+warn dfs.datanode$dataxceiver: <ip>:<num>:got exception while serving <block> to /<ip>:
+info dfs.datanode$dataxceiver: <ip>:<num> served block <block> to /<ip>
+warn dfs.datanode$dataxceiver: <ip>:<num>:got exception while serving <block> to /<ip>:
+warn dfs.datanode$dataxceiver: <ip>:<num>:got exception while serving <block> to /<ip>:
+warn dfs.datanode$dataxceiver: <ip>:<num>:got exception while serving <block> to /<ip>:
+warn dfs.datanode$dataxceiver: <ip>:<num>:got exception while serving <block> to /<ip>:
+info dfs.datanode$dataxceiver: <ip>:<num> served block <block> to /<ip>
+warn dfs.datanode$dataxceiver: <ip>:<num>:got exception while serving <block> to /<ip>:
+info dfs.datanode$dataxceiver: <ip>:<num> served block <block> to /<ip>
+warn dfs.datanode$dataxceiver: <ip>:<num>:got exception while serving <block> to /<ip>:
+warn dfs.datanode$dataxceiver: <ip>:<num>:got exception while serving <block> to /<ip>:
+info dfs.datablockscanner: verification succeeded for <block>
+warn dfs.datanode$dataxceiver: <ip>:<num>:got exception while serving <block> to /<ip>:
+info dfs.datanode$dataxceiver: <ip>:<num> served block <block> to /<ip>
+warn dfs.datanode$dataxceiver: <ip>:<num>:got exception while serving <block> to /<ip>:
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/sortrand<num>/_temporary/_task_<num>_<num>_r_<num>_<num>/part-<num>. <block>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/sortrand<num>/_temporary/_task_<num>_<num>_r_<num>_<num>/part-<num>. <block>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/sortrand<num>/_temporary/_task_<num>_<num>_r_<num>_<num>/part-<num>. <block>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/sortrand<num>/_temporary/_task_<num>_<num>_r_<num>_<num>/part-<num>. <block>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datablockscanner: verification succeeded for <block>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/sortrand<num>/_temporary/_task_<num>_<num>_r_<num>_<num>/part-<num>. <block>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/sortrand<num>/_temporary/_task_<num>_<num>_r_<num>_<num>/part-<num>. <block>
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/sortrand<num>/_temporary/_task_<num>_<num>_r_<num>_<num>/part-<num>. <block>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datablockscanner: verification succeeded for <block>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$dataxceiver: <ip>:<num> served block <block> to /<ip>
+info dfs.datanode$dataxceiver: <ip>:<num> served block <block> to /<ip>
+warn dfs.datanode$dataxceiver: <ip>:<num>:got exception while serving <block> to /<ip>:
+warn dfs.datanode$dataxceiver: <ip>:<num>:got exception while serving <block> to /<ip>:
+info dfs.datanode$dataxceiver: <ip>:<num> served block <block> to /<ip>
+info dfs.datablockscanner: verification succeeded for <block>
+warn dfs.datanode$dataxceiver: <ip>:<num>:got exception while serving <block> to /<ip>:
+info dfs.datanode$dataxceiver: <ip>:<num> served block <block> to /<ip>
+warn dfs.datanode$dataxceiver: <ip>:<num>:got exception while serving <block> to /<ip>:
+info dfs.datanode$dataxceiver: <ip>:<num> served block <block> to /<ip>
+warn dfs.datanode$dataxceiver: <ip>:<num>:got exception while serving <block> to /<ip>:
+info dfs.datablockscanner: verification succeeded for <block>
+info dfs.datablockscanner: verification succeeded for <block>
+warn dfs.datanode$dataxceiver: <ip>:<num>:got exception while serving <block> to /<ip>:
+warn dfs.datanode$dataxceiver: <ip>:<num>:got exception while serving <block> to /<ip>:
+warn dfs.datanode$dataxceiver: <ip>:<num>:got exception while serving <block> to /<ip>:
+info dfs.datanode$dataxceiver: <ip>:<num> served block <block> to /<ip>
+warn dfs.datanode$dataxceiver: <ip>:<num>:got exception while serving <block> to /<ip>:
+info dfs.datanode$dataxceiver: <ip>:<num> served block <block> to /<ip>
+warn dfs.datanode$dataxceiver: <ip>:<num>:got exception while serving <block> to /<ip>:
+info dfs.datanode$dataxceiver: <ip>:<num> served block <block> to /<ip>
+info dfs.datanode$dataxceiver: <ip>:<num> served block <block> to /<ip>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.datanode$dataxceiver: <ip>:<num> served block <block> to /<ip>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode: <ip>:<num> starting thread to transfer block <block> to <ip>:<num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.fsnamesystem: block* ask <ip>:<num> to delete  <block>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/rand<num>/_temporary/_task_<num>_<num>_m_<num>_<num>/part-<num>. <block>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/rand<num>/_temporary/_task_<num>_<num>_m_<num>_<num>/part-<num>. <block>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/rand<num>/_temporary/_task_<num>_<num>_m_<num>_<num>/part-<num>. <block>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/rand<num>/_temporary/_task_<num>_<num>_m_<num>_<num>/part-<num>. <block>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/randtxt<num>/_temporary/_task_<num>_<num>_m_<num>_<num>/part-<num>. <block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/<block>
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/randtxt<num>/_temporary/_task_<num>_<num>_m_<num>_<num>/part-<num>. <block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/randtxt<num>/_temporary/_task_<num>_<num>_m_<num>_<num>/part-<num>. <block>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsnamesystem: block* ask <ip>:<num> to delete  <block>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/randtxt<num>/_temporary/_task_<num>_<num>_m_<num>_<num>/part-<num>. <block>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/randtxt<num>/_temporary/_task_<num>_<num>_m_<num>_<num>/part-<num>. <block>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/randtxt<num>/_temporary/_task_<num>_<num>_m_<num>_<num>/part-<num>. <block>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/randtxt<num>/_temporary/_task_<num>_<num>_m_<num>_<num>/part-<num>. <block>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datablockscanner: verification succeeded for <block>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.datanode$dataxceiver: <ip>:<num> served block <block> to /<ip>
+warn dfs.datanode$dataxceiver: <ip>:<num>:got exception while serving <block> to /<ip>:
+warn dfs.datanode$dataxceiver: <ip>:<num>:got exception while serving <block> to /<ip>:
+info dfs.datanode$dataxceiver: <ip>:<num> served block <block> to /<ip>
+info dfs.datanode$dataxceiver: <ip>:<num> served block <block> to /<ip>
+warn dfs.datanode$dataxceiver: <ip>:<num>:got exception while serving <block> to /<ip>:
+info dfs.datanode$dataxceiver: <ip>:<num> served block <block> to /<ip>
+info dfs.datanode$dataxceiver: <ip>:<num> served block <block> to /<ip>
+info dfs.datanode$dataxceiver: <ip>:<num> served block <block> to /<ip>
+info dfs.datanode$dataxceiver: <ip>:<num> served block <block> to /<ip>
+info dfs.datanode$dataxceiver: <ip>:<num> served block <block> to /<ip>
+warn dfs.datanode$dataxceiver: <ip>:<num>:got exception while serving <block> to /<ip>:
+info dfs.datanode$dataxceiver: <ip>:<num> served block <block> to /<ip>
+warn dfs.datanode$dataxceiver: <ip>:<num>:got exception while serving <block> to /<ip>:
+warn dfs.datanode$dataxceiver: <ip>:<num>:got exception while serving <block> to /<ip>:
+info dfs.datanode$dataxceiver: <ip>:<num> served block <block> to /<ip>
+info dfs.datanode$dataxceiver: <ip>:<num> served block <block> to /<ip>
+info dfs.datanode$dataxceiver: <ip>:<num> served block <block> to /<ip>
+warn dfs.datanode$dataxceiver: <ip>:<num>:got exception while serving <block> to /<ip>:
+info dfs.datanode$dataxceiver: <ip>:<num> served block <block> to /<ip>
+info dfs.datanode$dataxceiver: <ip>:<num> served block <block> to /<ip>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.datanode$dataxceiver: <ip>:<num> served block <block> to /<ip>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$dataxceiver: <ip>:<num> served block <block> to /<ip>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/rand<num>/_temporary/_task_<num>_<num>_m_<num>_<num>/part-<num>. <block>
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/rand<num>/_temporary/_task_<num>_<num>_m_<num>_<num>/part-<num>. <block>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/rand<num>/_temporary/_task_<num>_<num>_m_<num>_<num>/part-<num>. <block>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/rand<num>/_temporary/_task_<num>_<num>_m_<num>_<num>/part-<num>. <block>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/rand<num>/_temporary/_task_<num>_<num>_m_<num>_<num>/part-<num>. <block>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/rand<num>/_temporary/_task_<num>_<num>_m_<num>_<num>/part-<num>. <block>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/rand<num>/_temporary/_task_<num>_<num>_m_<num>_<num>/part-<num>. <block>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/randtxt<num>/_temporary/_task_<num>_<num>_m_<num>_<num>/part-<num>. <block>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/randtxt<num>/_temporary/_task_<num>_<num>_m_<num>_<num>/part-<num>. <block>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/randtxt<num>/_temporary/_task_<num>_<num>_m_<num>_<num>/part-<num>. <block>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.datablockscanner: verification succeeded for <block>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/rand<num>/_temporary/_task_<num>_<num>_m_<num>_<num>/part-<num>. <block>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/rand<num>/_temporary/_task_<num>_<num>_m_<num>_<num>/part-<num>. <block>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$dataxceiver: received block <block> src: /<ip>:<num> dest: /<ip>:<num> of size <num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/rand<num>/_temporary/_task_<num>_<num>_m_<num>_<num>/part-<num>. <block>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/rand<num>/_temporary/_task_<num>_<num>_m_<num>_<num>/part-<num>. <block>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/randtxt<num>/_temporary/_task_<num>_<num>_m_<num>_<num>/part-<num>. <block>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/randtxt<num>/_temporary/_task_<num>_<num>_m_<num>_<num>/part-<num>. <block>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/randtxt<num>/_temporary/_task_<num>_<num>_m_<num>_<num>/part-<num>. <block>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/randtxt<num>/_temporary/_task_<num>_<num>_m_<num>_<num>/part-<num>. <block>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/randtxt<num>/_temporary/_task_<num>_<num>_m_<num>_<num>/part-<num>. <block>
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/randtxt<num>/_temporary/_task_<num>_<num>_m_<num>_<num>/part-<num>. <block>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/randtxt<num>/_temporary/_task_<num>_<num>_m_<num>_<num>/part-<num>. <block>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/randtxt<num>/_temporary/_task_<num>_<num>_m_<num>_<num>/part-<num>. <block>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/randtxt<num>/_temporary/_task_<num>_<num>_m_<num>_<num>/part-<num>. <block>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsnamesystem: block* ask <ip>:<num> to delete  <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsnamesystem: block* ask <ip>:<num> to delete  <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block> <block>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/rand<num>/_temporary/_task_<num>_<num>_m_<num>_<num>/part-<num>. <block>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/rand<num>/_temporary/_task_<num>_<num>_m_<num>_<num>/part-<num>. <block>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datablockscanner: verification succeeded for <block>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/rand<num>/_temporary/_task_<num>_<num>_m_<num>_<num>/part-<num>. <block>
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/rand<num>/_temporary/_task_<num>_<num>_m_<num>_<num>/part-<num>. <block>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/rand<num>/_temporary/_task_<num>_<num>_m_<num>_<num>/part-<num>. <block>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/rand<num>/_temporary/_task_<num>_<num>_m_<num>_<num>/part-<num>. <block>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/rand<num>/_temporary/_task_<num>_<num>_m_<num>_<num>/part-<num>. <block>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/rand<num>/_temporary/_task_<num>_<num>_m_<num>_<num>/part-<num>. <block>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/rand<num>/_temporary/_task_<num>_<num>_m_<num>_<num>/part-<num>. <block>
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/rand<num>/_temporary/_task_<num>_<num>_m_<num>_<num>/part-<num>. <block>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/rand<num>/_temporary/_task_<num>_<num>_m_<num>_<num>/part-<num>. <block>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/rand<num>/_temporary/_task_<num>_<num>_m_<num>_<num>/part-<num>. <block>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsnamesystem: block* ask <ip>:<num> to replicate <block> to datanode(s) <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$dataxceiver: received block <block> src: /<ip>:<num> dest: /<ip>:<num> of size <num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/rand<num>/_temporary/_task_<num>_<num>_m_<num>_<num>/part-<num>. <block>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/rand<num>/_temporary/_task_<num>_<num>_m_<num>_<num>/part-<num>. <block>
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/rand<num>/_temporary/_task_<num>_<num>_m_<num>_<num>/part-<num>. <block>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/rand<num>/_temporary/_task_<num>_<num>_m_<num>_<num>/part-<num>. <block>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/rand<num>/_temporary/_task_<num>_<num>_m_<num>_<num>/part-<num>. <block>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/rand<num>/_temporary/_task_<num>_<num>_m_<num>_<num>/part-<num>. <block>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/rand<num>/_temporary/_task_<num>_<num>_m_<num>_<num>/part-<num>. <block>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/rand<num>/_temporary/_task_<num>_<num>_m_<num>_<num>/part-<num>. <block>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/rand<num>/_temporary/_task_<num>_<num>_m_<num>_<num>/part-<num>. <block>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsnamesystem: block* namesystem.delete: <block> is added to invalidset of <ip>:<num>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/rand<num>/_temporary/_task_<num>_<num>_m_<num>_<num>/part-<num>. <block>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/rand<num>/_temporary/_task_<num>_<num>_m_<num>_<num>/part-<num>. <block>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.fsnamesystem: block* ask <ip>:<num> to delete  <block> <block> <block> <block> <block> <block> <block> <block> <block>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/rand<num>/_temporary/_task_<num>_<num>_m_<num>_<num>/part-<num>. <block>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/rand<num>/_temporary/_task_<num>_<num>_m_<num>_<num>/part-<num>. <block>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/rand<num>/_temporary/_task_<num>_<num>_m_<num>_<num>/part-<num>. <block>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/rand<num>/_temporary/_task_<num>_<num>_m_<num>_<num>/part-<num>. <block>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datablockscanner: verification succeeded for <block>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/rand<num>/_temporary/_task_<num>_<num>_m_<num>_<num>/part-<num>. <block>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/rand<num>/_temporary/_task_<num>_<num>_m_<num>_<num>/part-<num>. <block>
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/rand<num>/_temporary/_task_<num>_<num>_m_<num>_<num>/part-<num>. <block>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/rand<num>/_temporary/_task_<num>_<num>_m_<num>_<num>/part-<num>. <block>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.fsdataset: deleting block <block> file /mnt/hadoop/dfs/data/current/subdir<num>/<block>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.fsnamesystem: block* namesystem.allocateblock: /user/root/randtxt<num>/_temporary/_task_<num>_<num>_m_<num>_<num>/part-<num>. <block>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.fsnamesystem: block* namesystem.addstoredblock: blockmap updated: <ip>:<num> is added to <block> size <num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: received block <block> of size <num> from /<ip>
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+info dfs.datanode$packetresponder: packetresponder <num> for block <block> terminating
+info dfs.datanode$dataxceiver: receiving block <block> src: /<ip>:<num> dest: /<ip>:<num>
+blk_234 corrupted block detected
